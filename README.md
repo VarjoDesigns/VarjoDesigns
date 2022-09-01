@@ -21,6 +21,12 @@ Express for light projects. I've also used Java Spring Boot succesfully in two p
 **Node.js** - have found it perfect for light demo applications with Express.  
 
 
+### Business applications
+
+**PowerBI** - I've used PowerBI to conduct automatically updating reports and dashboards from different data sources.
+**Sharepoint** - I used to admin a fairly large support site, which featured among other stuff embedded PowerBI charts, FAQ's, instructions and presentations.   
+
+
 ### Other frameworks and tools
 
 **TailwindCSS** - I have been using tailwind on and off for about 9 months.  
