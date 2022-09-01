@@ -38,6 +38,16 @@ Express for light projects. I've also used Java Spring Boot succesfully in two p
 **Adobe Photoshop** - Defacto photo editing software, and my personal favorite one too. If i need to edit pixel graphics, it's my go to.  
 **Adobe XD** - Done a few prototypes with it for fun. Works like Adobe software usually does, so able to use it if needed.  
 
+## Notable projects here on Github
+Please note that most of what I do is in private repositories. I do have some public display projects and test projects I've done for sake of experimenting, that I can show in greater detail. 
+
+**My largest backend project:**  
+StorefrontApp was created for our server programming course. It runs on Java SpringBoot setup, with a thymeleaf frontend and Bootstrap powered UI. 
+
+**My largest frontend project:**  
+Raspberry Consulting frontend was done using Angular for a school project. The task was to create a complete website utilising Angular, and extra points could be earned from extending the project. I created an website for an imaginary consultant firm, and integrated theme customized version of Google Maps. 
+
+
 ## Links and portfolio
 
 **My personal website** is http://www.varjodesigns.com  
