@@ -1,6 +1,6 @@
 ## Varjo Designs
 
-I'm a junior web developer from Finland, currently working at Sohova. I intend to combine development skills with visual intuition learnt from my graphic design hobby. 
+I'm a web developer from Finland, currently working at Sohova. I intend to combine development skills with visual intuition learnt from my graphic design hobby. 
 
 ### Frontend development
 
