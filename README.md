@@ -4,11 +4,11 @@ I'm a web developer from Finland, currently working at Sohova. I intend to combi
 
 ### Frontend development
 
-I'm currently more focused on doing front end work, mostly on WordPress sites. I'm currently focusing on React, and have some experience in jQuery and Angular. 
+I'm currently more focused on doing front end work, mostly on WordPress sites. I'm currently focusing my efforts on React.
 
 **React** - My favorite "proper" framework. I've used it in school projects and for standalone apps in WordPress front ends.   
 **Angular** - Less experience, but have enjoyed it in the school projects it was used for.  
-**jQuery** - Javascript multitool. Very handy in WordPress projects.  
+**jQuery** - Javascript multitool.  
 
 ### Backend development
 
@@ -29,20 +29,21 @@ Express for light projects. I've also used Java Spring Boot succesfully in two p
 
 ### Other frameworks and tools
 
-**TailwindCSS** - I have been using tailwind on and off for about 9 months.  
-**Bootstrap** - I have been using Bootstrap for about 3 years.  
-**Backstop JS** - Backstop is great for visual regression testing. I've been using it for about 8 months.  
-**WordPress** - The CMS most of the web seems to run on. Been developming some plugins, templates themes etc. various things on both backend and frontend based on it.  
+**TailwindCSS** - I have been using tailwind on and off for about 14 months.  
+**Bootstrap** - I have been using Bootstrap for about 4 years.  
+**Backstop JS** - Backstop is great for visual regression testing. I've been using it for about 12 months.  
+**WordPress** - The CMS most of the web seems to run on, my main platform since 2021
+
 **WooCommerce** - I've developed some utlities and views for WooCommerce projects.  
-**Unity** - Who doesn't like playing with a game engine? Not very familiar with it, but have used it a few times to mess about with.  
-**Blender** - I got a good sense of basics in Blender. Don't use it all that much but have fun every time I do.   
+**Unity** - Who doesn't like playing with a game engine? I know basics of modding games and utilising the engine.   
+**Blender** - I got a good grasp of basics in Blender. Don't use it all that much but have fun every time I do.   
 
 ### Design 
 
-**Figma** - I love Figma for designing simple UX charts, web designs and simple stuff like my CV.  
+**Figma** - I love Figma for developing design systems and designing UX / UI solutions.  
 **Adobe Illustrator** - I love illustrator and have been using it for over 6 years by now. When all else fails, I'll go with illustrator.  
 **Adobe Photoshop** - Defacto photo editing software, and my personal favorite one too. If i need to edit pixel graphics, it's my go to.  
-**Adobe XD** - Done a few prototypes with it for fun. Works like Adobe software usually does, so able to use it if needed.  
+**Adobe AfterEffects** - 
 
 ## Notable projects here on Github
 Please note that most of what I do is in private repositories. I do have some public display projects and test projects I've done for sake of experimenting, that I can show in greater detail. 
@@ -52,6 +53,10 @@ StorefrontApp was created for our server programming course. It runs on Java Spr
 
 **My largest frontend project:**  
 Raspberry Consulting frontend was done using Angular for a school project. The task was to create a complete website utilising Angular, and extra points could be earned from extending the project. I created an website for an imaginary consultant firm, and integrated theme customized version of Google Maps. 
+
+### Potential Employers
+
+Please request access to private repositories such as my WordPress themes and plugins.
 
 
 ## Links and portfolio
