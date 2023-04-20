@@ -8,7 +8,8 @@ I'm currently more focused on doing front end work, mostly on WordPress sites. I
 
 **React** - My favorite "proper" framework. I've used it in school projects and for standalone apps in WordPress front ends.   
 **Angular** - Less experience, but have enjoyed it in the school projects it was used for.  
-**jQuery** - Javascript multitool.  
+**jQuery** - Javascript multitool. 
+**Vue** - Neat framework for making responsive layouts and components. 
 
 ### Backend development
 
