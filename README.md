@@ -2,7 +2,7 @@
 Senior Developer from Finland, currently working at Redandblue.
 
 Typical stack
-- React (JSX, TSX)
+- React (JSX, TSX). Native JS / Vue proficiency
 - SCSS
 - PHP, often WordPress 
 
